@@ -1,0 +1,29 @@
+.tab {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: rgb(97, 142, 224);
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: rgb(11, 39, 196);
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}

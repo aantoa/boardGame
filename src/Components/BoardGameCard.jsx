@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import CardStyles from "../Styles/Card.module.css"
-const BoardGameCard = ({bg, addBoardGamesToFavorite, favoriteBoardGames, removeBGFromFavorite}) =>{
+const BoardGameCard = ({bg, addBoardGamesToFavorite, favoriteBoardGames, removeBGFromFavorite, addBGToCart}) =>{
     const { title, genre, image_url, number_of_players} = bg;
     const isFavoriteBoardGames = favoriteBoardGames.find((f)=> f.id === bg.id );
 
@@ -15,6 +15,7 @@ const BoardGameCard = ({bg, addBoardGamesToFavorite, favoriteBoardGames, removeB
                     <button onClick={()=>addBoardGamesToFavorite(bg)} >🤍</button>
                 ) : <button onClick={()=>removeBGFromFavorite(bg)}>💛</button>
             }
+            <button onClick={()=>addBGToCart(bg)}>🛒</button>
         </div>
     );
 };
