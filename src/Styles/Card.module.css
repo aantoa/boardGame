@@ -9,7 +9,7 @@
     transition: transform 0.2s;
 }
 
-.card img {
+.cardImg {
     width: 50%;
     height: auto;
     padding: 20px;
@@ -26,12 +26,17 @@
 }
 
 .cardDetails {
-    font-size: 0.9em;
+    font-size: 1.1em;
     color: #555;
     margin-bottom: 10px;
 }
 
-.cardDescription {
+.cardGenre {
+    font-size: 1.3em;
+    color: #1a1919;
+}
+
+.cardPrice {
     font-size: 1em;
-    color: #333;
+    color: rgb(209, 69, 69);
 }

@@ -5,7 +5,8 @@
         "number_of_players": "3-4",
         "genre": "Strategy",
         "description": "A strategy and trading game where players colonize an island, build roads and cities, and trade resources.",
-        "image_url": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__imagepage/img/M_3Vg1j2HlNgkv7PL2xl2BJE2bw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2419375.jpg"
+        "image_url": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__imagepage/img/M_3Vg1j2HlNgkv7PL2xl2BJE2bw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2419375.jpg",
+        "price": 39.99
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "number_of_players": "2-6",
         "genre": "Economic",
         "description": "A classic board game where players buy, sell, and trade properties to get rich.",
-        "image_url": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__imagepagezoom/img/GUWzbE9f9a9ZrMSC_onF5xRPztU=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5786795.jpg"
+        "image_url": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__imagepagezoom/img/GUWzbE9f9a9ZrMSC_onF5xRPztU=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5786795.jpg",
+        "price": 29.99
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "number_of_players": "2-5",
         "genre": "Family",
         "description": "A game where players collect train cards to complete railway routes across North America.",
-        "image_url": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__imagepage/img/FcSGmLeIStNfb0l_qKSuOyz-rHY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic38668.jpg"
+        "image_url": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__imagepage/img/FcSGmLeIStNfb0l_qKSuOyz-rHY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic38668.jpg",
+        "price": 44.99
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "number_of_players": "2-4",
         "genre": "Cooperative",
         "description": "A cooperative game where players work together to stop the spread of global diseases.",
-        "image_url": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__imagepage/img/kIBu-2Ljb_ml5n-S8uIbE6ehGFc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1534148.jpg"
+        "image_url": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__imagepage/img/kIBu-2Ljb_ml5n-S8uIbE6ehGFc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1534148.jpg",
+        "price": 34.99
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "number_of_players": "2-5",
         "genre": "Strategy",
         "description": "A tile-placement game where players build cities, roads, and fields in southern France.",
-        "image_url": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__imagepage/img/axGbn7f0x6UUb07DmzX9hg5TwIo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6544250.png"
+        "image_url": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__imagepage/img/axGbn7f0x6UUb07DmzX9hg5TwIo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6544250.png",
+        "price": 29.99
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "number_of_players": "2-6",
         "genre": "Strategy",
         "description": "A global conquest game where players fight to control the world through diplomacy and warfare.",
-        "image_url": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__imagepage/img/4wrkUvOM1FWJ6PAlG0C-LbeQ984=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4916782.jpg"
+        "image_url": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__imagepage/img/4wrkUvOM1FWJ6PAlG0C-LbeQ984=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4916782.jpg",
+        "price": 24.99
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "number_of_players": "3-6",
         "genre": "Creativity",
         "description": "A storytelling game where players use their imagination to tell stories and guess each other's cards.",
-        "image_url": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__imagepage/img/j3bmkyVXJ2tOOXQzARtHqT__vzY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6738336.jpg"
+        "image_url": "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__imagepage/img/j3bmkyVXJ2tOOXQzARtHqT__vzY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6738336.jpg",
+        "price": 34.99
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "number_of_players": "2-4",
         "genre": "Word",
         "description": "A word game where players form words on a board using letter tiles to score points.",
-        "image_url": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__imagepage/img/jMu8xW0e_AZpYaBmZN0IRm04jKQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic404651.jpg"
+        "image_url": "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__imagepage/img/jMu8xW0e_AZpYaBmZN0IRm04jKQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic404651.jpg",
+        "price": 19.99
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "number_of_players": "2-10",
         "genre": "Card",
         "description": "A card game where players try to get rid of all their cards by matching colors and numbers.",
-        "image_url": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__imagepage/img/597k5SluqBtv5Jy2M8mz70yGhkw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8204165.jpg"
+        "image_url": "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__imagepage/img/597k5SluqBtv5Jy2M8mz70yGhkw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8204165.jpg",
+        "price": 14.99
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "number_of_players": "2-7",
         "genre": "Civilization",
         "description": "A civilization-building game where players develop their empires over three ages.",
-        "image_url": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__imagepage/img/WKlTys0Dc3F6x9r05Fwyvs82tz4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7149798.jpg"
+        "image_url": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__imagepage/img/WKlTys0Dc3F6x9r05Fwyvs82tz4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7149798.jpg",
+        "price": 49.99
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "number_of_players": "1-5",
         "genre": "Strategy",
         "description": "A strategy game where players compete to transform Mars into a habitable planet through terraforming projects.",
-        "image_url": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__imagepage/img/FS1RE8Ue6nk1pNbPI3l-OSapQGc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3536616.jpg"
+        "image_url": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__imagepage/img/FS1RE8Ue6nk1pNbPI3l-OSapQGc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3536616.jpg",
+        "price": 69.99
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "number_of_players": "2-4",
         "genre": "Abstract",
         "description": "A tile-placement game where players decorate the walls of the Royal Palace of Evora in Portugal.",
-        "image_url": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__imagepage/img/q4uWd2nXGeEkKDR8Cc3NhXG9PEU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6973671.png"
+        "image_url": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__imagepage/img/q4uWd2nXGeEkKDR8Cc3NhXG9PEU=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6973671.png",
+        "price": 34.99
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "number_of_players": "2-8",
         "genre": "Word",
         "description": "A word and deduction game where players must find the code names of their agents before the rival team.",
-        "image_url": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__imagepage/img/rc_Do8f5v41nWEGcwHE1eKAkIfI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2582929.jpg"
+        "image_url": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__imagepage/img/rc_Do8f5v41nWEGcwHE1eKAkIfI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2582929.jpg",
+        "price": 24.99
     },
     {
         "id": 14,
@@ -109,54 +122,61 @@
         "number_of_players": "1-5",
         "genre": "Strategy",
         "description": "A strategy game where players manage a farm, growing crops, raising animals, and improving their home.",
-        "image_url": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__imagepage/img/TLgJgsf7CyGgl8RM2duUYOrE41E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic831744.jpg"
+        "image_url": "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__imagepage/img/TLgJgsf7CyGgl8RM2duUYOrE41E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic831744.jpg",
+        "price": 49.99
     },
     {
         "id": 15,
-        "title": "Ticket to Ride: Europe",
-        "number_of_players": "2-5",
-        "genre": "Family",
-        "description": "A version of the Ticket to Ride game set in Europe, with new rules and challenges.",
-        "image_url": "https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__imagepage/img/pC5hC440R46jn4EpfdYV5rL4VOc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic66668.jpg"
+        "title": "The Resistance",
+        "number_of_players": "5-10",
+        "genre": "Social Deduction",
+        "description": "A social deduction game where players are either spies trying to sabotage missions or resistance members trying to complete them.",
+        "image_url": "https://cf.geekdo-images.com/YDkgLwiZElZJPXK5J9baxA__imagepage/img/GmUyTOUtQgmGeTRpeC5iZVHHV-g=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1398864.jpg",
+        "price": 19.99
     },
     {
         "id": 16,
-        "title": "Puerto Rico",
-        "number_of_players": "2-5",
+        "title": "Wingspan",
+        "number_of_players": "1-5",
         "genre": "Strategy",
-        "description": "A game of building and management where players develop the island of Puerto Rico through agriculture and trade.",
-        "image_url": "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__imagepage/img/r9fYYAHL6QdG7Sh2En5x8u7qFl4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic158548.jpg"
+        "description": "A strategy game where players attract birds to their wildlife preserve through card drafting and engine building.",
+        "image_url": "https://cf.geekdo-images.com/_0msBbsZj6NhzF5tiDk37A__imagepage/img/F1DHpJ8HZQUhrgsBppAE1mdd_t8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5070463.jpg",
+        "price": 59.99
     },
     {
         "id": 17,
-        "title": "King of Tokyo",
-        "number_of_players": "2-6",
-        "genre": "Family",
-        "description": "A monster battle game where players fight for control of the city of Tokyo using dice and cards.",
-        "image_url": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__imagepage/img/oSNvtltDuWj3LP74IEFj8Ov2B0k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3043734.jpg"
+        "title": "Mysterium",
+        "number_of_players": "2-7",
+        "genre": "Cooperative",
+        "description": "A cooperative game where players work together to solve the mystery of a murder through visions from a ghost.",
+        "image_url": "https://cf.geekdo-images.com/g1R2l5yHRiJMdDJGxGqWJA__imagepage/img/W2r_NmJNhMlSmpJIQY1-zfJHHpE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5721022.jpg",
+        "price": 49.99
     },
     {
         "id": 18,
         "title": "Splendor",
         "number_of_players": "2-4",
         "genre": "Strategy",
-        "description": "A game of chip-collecting and card-building where players aim to become the richest merchants of the Renaissance.",
-        "image_url": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__imagepage/img/JXnPzdgTeDkRrxESA86gnCw4Zws=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8234167.png"
+        "description": "A game where players collect gems and cards to earn points and win the favor of nobles.",
+        "image_url": "https://cf.geekdo-images.com/L5KfZoIG7M_few-7lOevsw__imagepage/img/RcHuAIcOa3xa4u7Y4J_oD8ivbkM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1904079.jpg",
+        "price": 39.99
     },
     {
         "id": 19,
-        "title": "Caverna: The Cave Farmers",
-        "number_of_players": "1-7",
-        "genre": "Strategy",
-        "description": "A farm management game where players raise animals, grow crops, and dig into the mountain to find resources.",
-        "image_url": "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__imagepage/img/QrZD2aCLeNq45eoWUXay6-2bsM4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5598833.jpg"
+        "title": "King of Tokyo",
+        "number_of_players": "2-6",
+        "genre": "Family",
+        "description": "A dice game where players take on the role of giant monsters fighting to become the King of Tokyo.",
+        "image_url": "https://cf.geekdo-images.com/GEAfGCsckAGu-n3m30b5Fw__imagepage/img/GzS8-r9ixFh8Cu5lh-EmgbVljlM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6397970.jpg",
+        "price": 34.99
     },
     {
         "id": 20,
-        "title": "Mysterium",
-        "number_of_players": "2-7",
-        "genre": "Cooperative",
-        "description": "A cooperative deduction game where players work together to solve a murder mystery using clues provided by a spirit.",
-        "image_url": "https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__imagepage/img/FAbfi09ZD0NHVa9psSeSrBZPgms=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2601683.jpg"
+        "title": "Codenames Duet",
+        "number_of_players": "2",
+        "genre": "Word",
+        "description": "A cooperative word game where two players must work together to find all their agents while avoiding the assassins.",
+        "image_url": "https://cf.geekdo-images.com/Qk9oFnUbdGgUxuXbA3bPhw__imagepage/img/yQXBWRViSi_lV9MKUKHjNYuwi-A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3726107.jpg",
+        "price": 24.99
     }
 ]

@@ -5,7 +5,8 @@
         "number_of_players": "3-4",
         "genre": "Strategy",
         "description": "A strategy and trading game where players colonize an island, build roads and cities, and trade resources.",
-        "image_url": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__imagepage/img/M_3Vg1j2HlNgkv7PL2xl2BJE2bw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2419375.jpg"
+        "image_url": "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__imagepage/img/M_3Vg1j2HlNgkv7PL2xl2BJE2bw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2419375.jpg",
+        "price": 39.99
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "number_of_players": "2-6",
         "genre": "Economic",
         "description": "A classic board game where players buy, sell, and trade properties to get rich.",
-        "image_url": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__imagepagezoom/img/GUWzbE9f9a9ZrMSC_onF5xRPztU=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5786795.jpg"
+        "image_url": "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__imagepagezoom/img/GUWzbE9f9a9ZrMSC_onF5xRPztU=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic5786795.jpg",
+        "price": 29.99
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "number_of_players": "2-5",
         "genre": "Family",
         "description": "A game where players collect train cards to complete railway routes across North America.",
-        "image_url": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__imagepage/img/FcSGmLeIStNfb0l_qKSuOyz-rHY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic38668.jpg"
+        "image_url": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__imagepage/img/FcSGmLeIStNfb0l_qKSuOyz-rHY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic38668.jpg",
+        "price": 44.99
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "number_of_players": "2-4",
         "genre": "Cooperative",
         "description": "A cooperative game where players work together to stop the spread of global diseases.",
-        "image_url": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__imagepage/img/kIBu-2Ljb_ml5n-S8uIbE6ehGFc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1534148.jpg"
+        "image_url": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__imagepage/img/kIBu-2Ljb_ml5n-S8uIbE6ehGFc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1534148.jpg",
+        "price": 34.99
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "number_of_players": "2-5",
         "genre": "Strategy",
         "description": "A tile-placement game where players build cities, roads, and fields in southern France.",
-        "image_url": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__imagepage/img/axGbn7f0x6UUb07DmzX9hg5TwIo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6544250.png"
+        "image_url": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__imagepage/img/axGbn7f0x6UUb07DmzX9hg5TwIo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6544250.png",
+        "price": 29.99
     },
     {
         "id": 6,
@@ -45,6 +50,7 @@
         "number_of_players": "2-6",
         "genre": "Strategy",
         "description": "A global conquest game where players fight to control the world through diplomacy and warfare.",
-        "image_url": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__imagepage/img/4wrkUvOM1FWJ6PAlG0C-LbeQ984=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4916782.jpg"
+        "image_url": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__imagepage/img/4wrkUvOM1FWJ6PAlG0C-LbeQ984=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4916782.jpg",
+        "price": 24.99
     }
 ]

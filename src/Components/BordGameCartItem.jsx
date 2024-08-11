@@ -1,14 +1,15 @@
 /* eslint-disable react/prop-types */
-import Button from "../Styles/Button.module.css"
+import Button from "../Styles/Button.module.css";
 
 const BordGameCartItem = ({cartBGItem, addBGToCart, decrementBGFromCart, removeBGFromCart}) => {
   const { boardGame, cant} = cartBGItem;
   return (
       <>
           <li>
-              <span>{boardGame.title} , genero: {boardGame.genre}</span>
-              {
-                cant>1?<button onClick={()=>decrementBGFromCart(boardGame)}>➖</button>:<button className={Button.disabled}>➖</button>
+            <span>{boardGame.title} , genero: {boardGame.genre}</span>
+            <span> , SubTotal: ${ cant*boardGame.price} </span>
+            {
+              cant>1?<button onClick={()=>decrementBGFromCart(boardGame)}>➖</button>:<button className={Button.disabled}>➖</button>
             }            
             <span>{cant}</span>
             <button onClick={()=>addBGToCart(boardGame)}>➕</button>
